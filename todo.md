@@ -1,0 +1,8 @@
+- [x] get the tweet which mentions followbot
+- [ ] store the id/link of the tweet to which the mention was - in DB
+  - [x] url for tweet - https://twitter.com/user/status/<tweet-id>
+- [ ] reply to that tweet saying they'll get the updates
+- [ ] Take that tweet link and send it in DMs
+- [ ] redis as DB (heroku)
+- [ ] run the main fn every 1 min
+- [ ] find a way to get all replies to a tweet (later)

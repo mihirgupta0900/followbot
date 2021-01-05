@@ -1,0 +1,90 @@
+{
+  "data": [
+    {
+      "id": "1345594479357648897",
+      "text": "@toddg777 🙋🏻‍♀️",
+      "author_id": "1343800947428962304",
+      "created_at": "2021-01-03T04:54:58.000Z",
+      "in_reply_to_user_id": "378181475",
+      "conversation_id": "1345486586696392704"
+    },
+    {
+      "id": "1345576689607319558",
+      "text": "@toddg777 Hey! I'm a real estate broker and a new founder. Happy to show you around Miami and give you lay of the land. Been here 10 years and have a portfolio of my own properties. I know the city and what's happening intimately.",
+      "author_id": "317918443",
+      "created_at": "2021-01-03T03:44:17.000Z",
+      "in_reply_to_user_id": "378181475",
+      "conversation_id": "1345486586696392704"
+    },
+    {
+      "id": "1345571951113334784",
+      "text": "@toddg777 I would love to meet up",
+      "author_id": "56821517",
+      "created_at": "2021-01-03T03:25:27.000Z",
+      "in_reply_to_user_id": "378181475",
+      "conversation_id": "1345486586696392704"
+    },
+    {
+      "id": "1345569057110708224",
+      "text": "@toddg777 doing the same, will also be in wynwood",
+      "author_id": "12193402",
+      "created_at": "2021-01-03T03:13:57.000Z",
+      "in_reply_to_user_id": "378181475",
+      "conversation_id": "1345486586696392704"
+    },
+    {
+      "id": "1345555529201025027",
+      "text": "@toddg777 Welcome to Miami, Bienvenido a Miami :)",
+      "author_id": "1336029935501275145",
+      "created_at": "2021-01-03T02:20:12.000Z",
+      "in_reply_to_user_id": "378181475",
+      "conversation_id": "1345486586696392704"
+    },
+    {
+      "id": "1345554532093333507",
+      "text": "@eocurry @toddg777 The show must go on.",
+      "author_id": "1336029935501275145",
+      "created_at": "2021-01-03T02:16:14.000Z",
+      "in_reply_to_user_id": "377465215",
+      "conversation_id": "1345486586696392704"
+    },
+    {
+      "id": "1345553388449091586",
+      "text": "@toddg777 Also should connect with @ajt if haven’t yet",
+      "author_id": "394784430",
+      "created_at": "2021-01-03T02:11:41.000Z",
+      "in_reply_to_user_id": "378181475",
+      "conversation_id": "1345486586696392704"
+    },
+    {
+      "id": "1345548799100514309",
+      "text": "@toddg777 hello!",
+      "author_id": "33788564",
+      "created_at": "2021-01-03T01:53:27.000Z",
+      "in_reply_to_user_id": "378181475",
+      "conversation_id": "1345486586696392704"
+    },
+    {
+      "id": "1345545612846977025",
+      "text": "@toddg777 Why would you be trying to meet with people in person at the peak of a pandemic?",
+      "author_id": "377465215",
+      "created_at": "2021-01-03T01:40:47.000Z",
+      "in_reply_to_user_id": "378181475",
+      "conversation_id": "1345486586696392704"
+    },
+    {
+      "id": "1345543552638582787",
+      "text": "@toddg777 Miami is THE place, you’ll love it 🤙",
+      "author_id": "856298965872062464",
+      "created_at": "2021-01-03T01:32:36.000Z",
+      "in_reply_to_user_id": "378181475",
+      "conversation_id": "1345486586696392704"
+    }
+  ],
+  "meta": {
+    "newest_id": "1345594479357648897",
+    "oldest_id": "1345543552638582787",
+    "result_count": 10,
+    "next_token": "b26v89c19zqg8o3foshtso3hekw1zur8jt4x0ycihavlp"
+  }
+}

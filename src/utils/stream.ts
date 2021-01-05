@@ -32,8 +32,4 @@ class Stream extends EventEmitter {
   }
 }
 
-export const streamApi = () => {
-  const stream = new Stream();
-};
-
 export default Stream;
